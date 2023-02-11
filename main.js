@@ -1,7 +1,7 @@
 const wrapper = document.querySelector(".sliderWrapper");
 const menuitems = document.querySelectorAll(".menuitem");
 
- document.querySelector(".git initmenuitem").innerHTML = "I have changed!"; 
+ //document.querySelector(".git initmenuitem").innerHTML = "I have changed!"; 
 
 const products = [
   {
